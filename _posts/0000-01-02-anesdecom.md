@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You is the because
 Use the left arrow to go back!
 Some more new text
